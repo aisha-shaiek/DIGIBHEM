@@ -1,0 +1,47 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.calculator {
+    text-align: center;
+    border: 2px solid #333;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#display {
+    width: 80%;
+    margin-bottom: 20px;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+}
+
+button {
+    padding: 17px;
+    font-size: 18px;
+    background-color: black; /* Default background color for buttons */
+    color:aliceblue;
+    border-radius: 50%; /* Apply rounded corners for oval shape */
+}
+button:hover {
+    background-color:grey;
+}
+.operator {
+    background-color: orangered; /* Background color for operator buttons */
+    color: white;
+    border-radius: 50%; /* Apply rounded corners for oval shape */
+}
+
+.operator:hover {
+    background-color: #F89880; /* Change background color on hover */
+}
