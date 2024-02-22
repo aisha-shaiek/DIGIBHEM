@@ -5,5 +5,6 @@ HTML provides the fundamental structure of the calculator such as creating butto
 CSS gives the appearance to the calculator by providing styling elements like colors, fonts, sizes, spacing, borders.
 JS brings the calculator to life by handling functions, user interactions and calculations. It impelemts button clicks, arithmetic operations, displaying accurate results etc.
 Result of this code:
-![2024-02-22 (2)](https://github.com/aisha-shaiek/DIGIBHEM/assets/114819374/a071cb9c-c3d8-43e0-9975-8f1c7e21edca)
-![2024-02-22 (1)](https://github.com/aisha-shaiek/DIGIBHEM/assets/114819374/42848697-7976-4740-81c4-cb931b0ef370)
+![2024-02-22 (4)](https://github.com/aisha-shaiek/DIGIBHEM/assets/114819374/8d1820f3-e970-4405-84a0-0541f9e88bde)
+![2024-02-22 (3)](https://github.com/aisha-shaiek/DIGIBHEM/assets/114819374/c300210a-afa5-45d8-832a-f00255700bc3)
+
